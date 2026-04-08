@@ -91,8 +91,8 @@ If we continue working on this project, we would like to add:
 
 We are a team of four students working together on this hackathon project:
 
-- Saumya – Frontend
-- Amber – Backend
+- Amber – Frontend
+- saumya – Backend
 - Avinash – Database
 - Ananya – Documentation & Testing
 
