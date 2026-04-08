@@ -24,7 +24,7 @@ import {
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 
 function App() {
-  const ADMIN_EMAIL = "amberschdg@gmail.com";
+  const ADMIN_EMAIL = "admin@gmail.com";
   const resetPassword = async () => {
   if (!email) return alert("Enter your email first");
 
