@@ -58,18 +58,11 @@ one-tap-study-group
 
 
 ## How to Run the Project 
+Install the React Leatface library in your system
 
-Clone the repository:
-
-
-git clone https://github.com/your-username/ultronx-one-tap-study-group.git
-
-
-Go to the project directory:
-
+Copy the codes and insert them into your files
 
 cd one-tap-study-group
-
 
 Install dependencies:
 
@@ -81,6 +74,7 @@ npm start
 
 ## Future Improvements 
 If we continue working on this project, we would like to add:
+-more better interface using Css and Js
 - AI based study partner suggestions
 - Video study rooms
 - Progress tracking
