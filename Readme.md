@@ -1,4 +1,4 @@
-# UltronX – One Tap Study Group 
+# UltronX – One Tap Study Group -"SnapStudy"
 
 ## About Our Project
 Studying alone can sometimes feel difficult and unmotivating. Many students want to study in groups but don't know how to find the right people or manage time together.
